@@ -219,7 +219,6 @@ Copy the example environment file:
 ```bash
 cp .env.example .env.local
 ```
-*(Optional: Provide a `GEMINI_API_KEY` for natural-language rephrasing; deterministic statutory engine operates independently with 100% offline accuracy.)*
 
 ### 3. Run Development Server
 ```bash
