@@ -1,0 +1,6 @@
+{
+  "name": "MahaSetu AI - Maharashtra Interoperability Layer",
+  "description": "Interoperability gateway connecting Maharashtra department systems for unified application submission, tracking, SLA monitoring, and cryptographic auditability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
